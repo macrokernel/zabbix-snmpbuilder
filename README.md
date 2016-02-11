@@ -1,4 +1,4 @@
-## SNMP Builder - SNMP MIB Import for Zabbix Monitoring System
+## SNMP Builder - SNMP MIB Import for Zabbix 2.0.0 Monitoring System
 
 This repository contains files that are needed to add SNMP MIB Import functionality to Zabbix Monitoring System
 
@@ -12,15 +12,15 @@ This repository contains files that are needed to add SNMP MIB Import functional
 3. Apply snmpbuilder patch
    
    ```shell
-   patch -p3 < snmpbuilder-<ver>.patch
+   patch -p3 < zabbix-2.0.0-snmpbuilder.patch
    ```
 4. Unpack images archive
    
    ```shell
-   unzip zabbix-<ver>-snmpbuilder-imgs.zip -d /usr/share/zabbix
+   unzip zabbix-2.0.0-snmpbuilder-imgs.zip -d /usr/share/zabbix
    ```
 5. Remove patch file and images archive
    
    ```shell
-   rm snmpbuilder-<ver>.patch zabbix-<ver>-snmpbuilder-imgs.tgz
+   rm zabbix-2.0.0-snmpbuilder.patch zabbix-2.0.0-snmpbuilder-imgs.zip
    ```
