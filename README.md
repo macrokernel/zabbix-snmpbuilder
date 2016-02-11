@@ -1,4 +1,4 @@
-## SNMP Builder - SNMP MIB Import for Zabbix 2.0.0 Monitoring System
+### SNMP Builder - SNMP MIB Import for Zabbix 2.0.0 Monitoring System
 
 This repository contains files that are needed to add SNMP MIB Import functionality to Zabbix Monitoring System
 
