@@ -14,7 +14,7 @@ This repository contains files that are needed to add SNMP MIB Import functional
    ```shell
    patch -p3 < snmpbuilder-<ver>.patch
    ```
-4. Unpack images, JavaScript and CSS archive
+4. Unpack images archive
    
    ```shell
    tar zxf zabbix-2.0-snmpbuilder-imgs.tgz -C /usr/share/zabbix
