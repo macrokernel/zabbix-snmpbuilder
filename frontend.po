@@ -1,0 +1,60 @@
+#: snmp_builder.php:1069
+#, php-format
+msgid "Cannot create graph for non-numeric item, skipping \"%1$s\""
+msgstr "Невозможно создать график для нечислового элемента данных\"%1$s\""
+
+#: snmp_builder.php:742
+msgid "Delta"
+msgstr "Дельта"
+
+#: snmp_builder.php:558
+msgid "OID Data"
+msgstr "Данные OID"
+
+#: snmp_builder.php:735 snmp_builder.php:741
+msgid "OID Name"
+msgstr "Имя OID"
+
+#: snmp_builder.php:528
+msgid "OID Tree"
+msgstr "Дерево OID"
+
+#: snmp_builder.php:333
+#, php-format
+msgid "OID is null \"%1$s\""
+msgstr "OID пуст \"%1$s\""
+
+#: snmp_builder.php:318
+msgid "OID list is null"
+msgstr "Список OID пуст"
+
+#: include/menu.inc.php:211 snmp_builder.php:35 snmp_builder.php:445
+#: snmp_builder.php:508
+msgid "SNMP Builder"
+msgstr "Импорт SNMP MIB"
+
+#: snmp_builder.php:498
+msgid "SNMP Version"
+msgstr "Версия SNMP"
+
+#: snmp_builder.php:558
+msgid "Click to force view as table"
+msgstr "Принудительно представить в виде таблицы"
+
+#: snmp_builder.php:158
+#, php-format
+msgid "Invalid host address \"%1$s\""
+msgstr "Недопустимый адрес узла сети \"%1$s\""
+
+#: snmp_builder.php:348
+#, php-format
+msgid "Invalid type \"%1$s\""
+msgstr "Недопустимый тип \"%1$s\""
+
+#: snmp_builder.php:830 snmp_builder.php:869
+msgid "No host address provided"
+msgstr "Не указан адрес узла сети"
+
+#: snmp_builder.php:671
+msgid "Save"
+msgstr "Сохранить"
