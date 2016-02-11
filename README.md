@@ -17,10 +17,10 @@ This repository contains files that are needed to add SNMP MIB Import functional
 4. Unpack images archive
    
    ```shell
-   tar zxf zabbix-2.0-snmpbuilder-imgs.tgz -C /usr/share/zabbix
+   unzip zabbix-<ver>-snmpbuilder-imgs.zip -d /usr/share/zabbix
    ```
 5. Remove patch file and images archive
    
    ```shell
-   rm snmpbuilder-<ver>.patch zabbix-2.0-snmpbuilder-imgs.tgz
+   rm snmpbuilder-<ver>.patch zabbix-<ver>-snmpbuilder-imgs.tgz
    ```
