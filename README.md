@@ -12,7 +12,7 @@ This repository contains files that are needed to add SNMP MIB Import functional
 3. Apply snmpbuilder patch
 
    ```shell
-   patch -p3 < zabbix-2.4.7-snmpbuilder.patch
+   patch -p3 < snmpbuilder-2.4.7.patch
    ```
 4. Unpack images archive
 
@@ -22,4 +22,4 @@ This repository contains files that are needed to add SNMP MIB Import functional
 5. Remove patch file and images archive
 
    ```shell
-   rm zabbix-2.4.7-snmpbuilder.patch zabbix-2.0.0-snmpbuilder-imgs.zip
+   rm snmpbuilder-2.4.7.patch zabbix-2.0.0-snmpbuilder-imgs.zip
