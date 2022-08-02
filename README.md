@@ -28,3 +28,7 @@ This repository contains files that are needed to add SNMP MIB Import functional
 
    ```shell
    rm snmpbuilder-2.4.7.patch zabbix-2.0.0-snmpbuilder-imgs.zip
+
+
+#### SNMP Builder GUI
+![SNMP Builder GUI Screenshot](Zabbix-2.4.7-SNMP-Builder.png?raw=true "SNMP Builder GUI Screenshot")
